@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "503751655723",
+    "firebase_url": "https://lycans-a4b05-default-rtdb.firebaseio.com",
+    "project_id": "lycans-a4b05",
+    "storage_bucket": "lycans-a4b05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503751655723:android:bf46c2627362484c71456e",
+        "android_client_info": {
+          "package_name": "com.lycans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-aGdcw9tHS6MTpxD8XaU0NjUh4HOcwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503751655723:android:791e6611a306faee71456e",
+        "android_client_info": {
+          "package_name": "com.lycans.admin.lycans_fight_club_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-aGdcw9tHS6MTpxD8XaU0NjUh4HOcwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
