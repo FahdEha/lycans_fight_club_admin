@@ -1,0 +1,16 @@
+[debug] [2026-10-05T17:05:02.381Z] ----------------------------------------------------------------------
+[debug] [2026-10-05T17:05:02.394Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\kolok\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js apps:list web --json --project=ufa-69e77
+[debug] [2026-10-05T17:05:02.395Z] CLI Version:   15.26.0
+[debug] [2026-10-05T17:05:02.395Z] Platform:      win32
+[debug] [2026-10-05T17:05:02.396Z] Node Version:  v24.19.0
+[debug] [2026-10-05T17:05:02.396Z] Detected Agent: unknown
+[debug] [2026-10-05T17:05:02.397Z] Time:          Mon Oct 05 2026 20:05:02 GMT+0300 (Doğu Avrupa Yaz Saati)
+[debug] [2026-10-05T17:05:02.397Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2026-10-05T17:05:03.531Z] Object "" in "firebase.json" has unknown property: {"additionalProperty":"flutter"}
+[debug] [2026-10-05T17:05:03.545Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-10-05T17:05:03.546Z] > authorizing via signed-in user (koloko765@gmail.com)
+[debug] [2026-10-05T17:05:03.611Z] Checked if tokens are valid: true, expires at: 1791223404671
+[debug] [2026-10-05T17:05:03.613Z] Checked if tokens are valid: true, expires at: 1791223404671
+[debug] [2026-10-05T17:05:03.622Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/ufa-69e77/webApps pageSize=100
+[debug] [2026-10-05T17:05:05.284Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/ufa-69e77/webApps 200
