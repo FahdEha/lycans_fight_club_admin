@@ -1,4 +1,4 @@
-# t2_academy_admin
+# lycans_admin
 
 A new Flutter project.
 
